@@ -15,5 +15,5 @@ First, clone repository with:
 
 To train an agent in a discrete maze environment
 
-    $ python discrete_env/train_multi_grid.py
+    $ python discrete_env/train.py
 
